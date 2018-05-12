@@ -1,0 +1,49 @@
+_repo: The-Little-Colonel-s-Knight-Comes-Riding_39594
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barry, Etheldred B. (Etheldred Breeze)
+    aliases:
+    - Barry, Etheldred Breeze
+    - Barry, Ethelred Breeze
+    - Barry, E. B. (Etheldred Breeze)
+    birthdate: 1870
+    gutenberg_agent_id: '6348'
+    url: http://www.gutenberg.org/2009/agents/6348
+covers:
+- cover_type: archival
+  image_path: 39594-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Fellows, Annie
+    - Johnston, Annie Fellows
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: Author Annie F. Johnston was first inspired to create the beloved children's
+  literature character known as the Little Colonel after a run-in with a supremely
+  self-possessed little boy who reminded her of the imperious mannerisms of her grandfather,
+  a high-ranking officer in the Confederate army. In this novel, a later entry in
+  the series, a key plot point is finally resolved as Lloyd chooses a bride.
+gutenberg_issued: '2012-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Betrothal -- Juvenile fiction'
+- !lcsh 'Marriage customs and rites -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Kentucky -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+title: The Little Colonel's Knight Comes Riding
+url: http://www.gutenberg.org/ebooks/39594
